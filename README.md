@@ -1,6 +1,12 @@
 # Data Science Projects
 
-## Table of Content
+![Last Commit](https://img.shields.io/github/last-commit/sonnguyen129/deep-feature-rotation)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-blue.svg)]((https://github.com/sonnguyen129/deep-feature-rotation/graphs/commit-activity))
+![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
+
+A curated list of my practical data science projects for interview and educational purpose.
+
+## Table of Contents
 
 1. [Data Science](#data-science)
 2. [Computer Vision](#computer-vision)
