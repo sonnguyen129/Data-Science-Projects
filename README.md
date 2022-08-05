@@ -1,5 +1,14 @@
 # Data Science Projects
 
+## Table of Content
+
+1. [Data Science](#data-science)
+2. [Computer Vision](#computer-vision)
+3. [Natural Languge Processing](#natural-language-processing)
+4. [Paper Implementation](#paper-implementation) 
+5. [Contact](#contact)
+
+
 ## Data Science
 
 | Projects | Description | Code |
@@ -19,3 +28,14 @@
 ## Natural Language Processing
 
 ***Updating***
+
+## Paper Implementation
+
+| Paper | Description | Code | Official |
+|:--:|:--:|:--:|:--:|
+| Deep Feature Rotation for Multimodal Image Style Transfer | Artistic Style Transfer | [Code](https://github.com/sonnguyen129/deep-feature-rotation) | :heavy_check_mark: |
+| Arbitrary Style Transfer with Style-Attentional Networks | Artistic Style Transfer | [Code](https://github.com/sonnguyen129/SANet-pytorch) | |
+| [Siamese Neural Networks for One-shot Image Recognition](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf) | One-shot Image Recognition | [Code](https://github.com/sonnguyen129/siamese-oneshot) | |
+
+## Contact
+If you have any questions, feel free to open a github issue or pull a request or mail to the author [Son Truong Nguyen](https://sonnguyen129.github.io/).
