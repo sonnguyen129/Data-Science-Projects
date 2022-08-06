@@ -4,7 +4,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-blue.svg)]((https://github.com/sonnguyen129/deep-feature-rotation/graphs/commit-activity))
 ![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
 
-A curated list of my practical data science projects for job interview purpose.
+A curated list of ***my practical data science projects*** for job interview purpose.
 
 ## Table of Contents
 
@@ -21,7 +21,7 @@ A curated list of my practical data science projects for job interview purpose.
 | Projects | Description | Code |
 |:--:|:--:|:--:|
 | Accident Severity Prediction | Predict the severity of accident, build web application using Streamlit, deploy on Heroku. |[Code](https://github.com/sonnguyen129/Accident-Severity-Prediction)|
-|Credit Card Fraud Detection| Classify fraud transactions using LightGBM, Optuna and create model performance dashboard |[Code](https://github.com/sonnguyen129/Credit-Card-Fraud-Detection)|
+|**Credit Card Fraud Detection**| Classify fraud transactions using LightGBM, Optuna and create model performance dashboard |[Code](https://github.com/sonnguyen129/Credit-Card-Fraud-Detection)|
 |Site Energy Intensity Prediction| Predict the energy consumption, interpret by SHAP |[Code](https://github.com/sonnguyen129/Site-Energy-Intensity-Prediction)|
 | Tensorflow Tabular Models | Tensorflow examples of State-of-the art algorithms for tabular data | Not released |
 
