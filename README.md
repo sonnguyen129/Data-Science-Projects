@@ -12,8 +12,9 @@ A curated list of ***my practical data science projects*** for job interview pur
 2. [Computer Vision](#computer-vision)
 3. [Natural Languge Processing](#natural-language-processing)
 4. [Others](#others)
-5. [Paper Implementation](#paper-implementation) 
-6. [Contact](#contact)
+5. [Paper Implementation](#paper-implementation)
+6. [Competitions](#competitions) 
+7. [Contact](#contact)
 
 
 ## Data Science
@@ -48,8 +49,12 @@ A curated list of ***my practical data science projects*** for job interview pur
 | Paper | Description | Code | Official |
 |:--:|:--:|:--:|:--:|
 | [Deep Feature Rotation for Multimodal Image Style Transfer](https://arxiv.org/pdf/2202.04426.pdf) | Artistic Style Transfer | [Code](https://github.com/sonnguyen129/deep-feature-rotation) | :heavy_check_mark: |
-| [Arbitrary Style Transfer with Style-Attentional Networks](https://arxiv.org/pdf/2202.04426.pdf) | Artistic Style Transfer | [Code](https://github.com/sonnguyen129/SANet-pytorch) | |
+| [Arbitrary Style Transfer with Style-Attentional Networks](https://arxiv.org/pdf/1812.02342.pdf) | Artistic Style Transfer | [Code](https://github.com/sonnguyen129/SANet-pytorch) | |
 | [Siamese Neural Networks for One-shot Image Recognition](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf) | One-shot Image Recognition | [Code](https://github.com/sonnguyen129/siamese-oneshot) | |
+
+## Competitions
+
+***Updating***
 
 ## Contact
 If you have any questions, feel free to open a github issue or pull a request or mail to the author [Son Truong Nguyen](https://sonnguyen129.github.io/).
