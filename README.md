@@ -24,13 +24,13 @@ A curated list of ***my practical data science projects*** for job interview pur
 | Accident Severity Prediction | Predict the severity of accident, build web application using Streamlit, deploy on Heroku. |[Code](https://github.com/sonnguyen129/Accident-Severity-Prediction)|
 |**Credit Card Fraud Detection**| Classify fraud transactions using LightGBM, Optuna and create model performance dashboard |[Code](https://github.com/sonnguyen129/Credit-Card-Fraud-Detection)|
 |Site Energy Intensity Prediction| Predict the energy consumption, interpret by SHAP |[Code](https://github.com/sonnguyen129/Site-Energy-Intensity-Prediction)|
-| Tensorflow Tabular Models | Tensorflow examples of State-of-the art algorithms for tabular data | Not released |
+| Tabular Experiments | Automated Benchmark Analysis on Various Tabular Models | [Code](https://github.com/sonnguyen129/Tabular-Experiments)|
 
 ## Computer Vision
 
 | Projects | Description | Code |
 |:--:|:--:|:--:|
-|Traffic Management System| Interactive web-based dashboard for tracking traffic direction, speed using YOLOX, DeepSORT. |[Code](https://github.com/sonnguyen129/Traffic-Management-System)|
+|Traffic Flow Analysis | Interactive web-based dashboard for tracking traffic direction, speed using YOLOX, DeepSORT. |[Code](https://github.com/sonnguyen129/Traffic-Flow-Analysis)|
 |Face and Emotion Recognition System | Build a web application using transfer learning, VotingClassifier, Flask, Heroku. | [Code](https://github.com/sonnguyen129/Face-Recognition-App) |
 |License Plate Detection| | [Code](https://github.com/sonnguyen129/License-Plate-Detection) |
 | Kinship Face Generation | | Not released |
